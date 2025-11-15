@@ -575,3 +575,7 @@
 /Users/rustemaisariyev/Desktop/social-app/SocialAppService/obj/Debug/net9.0/SocialAppService.pdb
 /Users/rustemaisariyev/Desktop/social-app/SocialAppService/obj/Debug/net9.0/SocialAppService.genruntimeconfig.cache
 /Users/rustemaisariyev/Desktop/social-app/SocialAppService/obj/Debug/net9.0/ref/SocialAppService.dll
+/Users/rustemaisariyev/Desktop/social-app/SocialAppService/bin/Debug/net9.0/SocialAppService.staticwebassets.runtime.json
+/Users/rustemaisariyev/Desktop/social-app/SocialAppService/obj/Debug/net9.0/compressed/1jeol0e83o-m3i3bdihab.gz
+/Users/rustemaisariyev/Desktop/social-app/SocialAppService/obj/Debug/net9.0/compressed/v83619k37r-2zd5t7gjap.gz
+/Users/rustemaisariyev/Desktop/social-app/SocialAppService/obj/Debug/net9.0/compressed/vxtujdhety-uib36dcm8x.gz

@@ -19,6 +19,10 @@ if (app.Environment.IsDevelopment())
         options.DocumentPath = "/openapi/v1.json";
     });
 }
+
+app.UseDefaultFiles();  // Wrong: lowercase 'u'
+app.UseStaticFiles();
+
 // </snippet_UseSwagger>
 
 app.UseHttpsRedirection();
